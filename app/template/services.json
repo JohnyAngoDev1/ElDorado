@@ -1,0 +1,14 @@
+{
+    "cards_section_subtitle": "Nuestros Servicios",
+    "cards_section_title": "Excelencia en cada detalle",
+    "cards_section_description": "Transformamos la madera noble en soluciones funcionales y estéticas para su espacio, cuidando cada veta y cada unión.",
+    "cards_item_price_prefix": "Consultar precio",
+    "cards_section_error": "Error al cargar los servicios. Por favor, intente más tarde.",
+    "cards_section_empty": "No hay productos en esta categoría por el momento.",
+    "cards_section_view_all": "Ver Todos los Productos",
+    "categories": ["Todos", "Muebles Modulares", "Vestidores y Clósets", "Interiores y Exteriores", "Oficina y Corporativo"],
+    "services_page_hero_badge": "Catálogo de Excelencia",
+    "services_page_hero_title": "Nuestros",
+    "services_page_hero_title_highlight": "Servicios",
+    "services_page_hero_description": "Explore nuestra colección completa de 15 productos y servicios artesanales. Cada pieza es diseñada para elevar su espacio con la calidez y distinción de la madera noble."
+}

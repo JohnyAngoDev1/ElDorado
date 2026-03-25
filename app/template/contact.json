@@ -1,0 +1,19 @@
+{
+    "contactus_subject_option_1": "Cuéntenos su proyecto",
+    "contactus_subject_option_2": "Pendiente",
+    "contactus_subject_option_3": "En Taller",
+    "contactus_subject_option_4": "Entregado",
+    "contactus_header_title": "Demos vida a\nsu idea.",
+    "contactus_header_description": "Estamos deseando escuchar su idea y ayudarle a convertirla en realidad. Visítenos en nuestro taller o rellene el formulario.",
+    "contactus_social_title": "Sigue nuestro trabajo",
+    "contactus_form_name_label": "NOMBRE COMPLETO",
+    "contactus_form_email_label": "CORREO ELECTRÓNICO",
+    "contactus_form_subject_label": "SERVICIO DE INTERÉS",
+    "contactus_form_subject_placeholder": "Seleccione un servicio",
+    "contactus_form_message_label": "MENSAJE",
+    "contactus_form_message_placeholder": "Describa brevemente su idea...",
+    "contactus_form_submit_button": "Enviar Consulta",
+    "contactus_info_email": "dorado.muebleria@gmail.com",
+    "contactus_info_address": "Ecuador",
+    "contactus_info_phone": "096 265 2646 / 098 400 1743"
+}

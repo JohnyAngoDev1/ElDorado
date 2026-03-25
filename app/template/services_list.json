@@ -1,0 +1,79 @@
+{
+  "Muebles Modulares": [
+    {
+      "id": 1,
+      "title": "Cocina Contemporánea con Isla de Mármol",
+      "image": "/images/services/service-2.jpg",
+      "category": "Muebles Modulares"
+    },
+    {
+      "id": 2,
+      "title": "Conjunto de Baño Dual con Almacenamiento Maestro",
+      "image": "/images/services/service-8.jpg",
+      "category": "Muebles Modulares"
+    },
+    {
+      "id": 3,
+      "title": "Mueble Tocador Moderno",
+      "image": "/images/services/service-7.jpg",
+      "category": "Muebles Modulares"
+    }
+  ],
+  "Vestidores y Clósets": [
+    {
+      "id": 4,
+      "title": "Isla Organizadora Central",
+      "image": "/images/services/service-1.jpg",
+      "category": "Vestidores y Clósets"
+    },
+    {
+      "id": 5,
+      "title": "Walk-in Closet",
+      "image": "/images/services/service-10.jpg",
+      "category": "Vestidores y Clósets"
+    },
+    {
+      "id": 6,
+      "title": "Nicho Decorativo",
+      "image": "/images/services/service-11.jpg",
+      "category": "Vestidores y Clósets"
+    }
+  ],
+  "Interiores y Exteriores": [
+    {
+      "id": 7,
+      "title": "Escalera Retráctil",
+      "image": "/images/services/service-3.jpg",
+      "category": "Interiores y Exteriores",
+      "badge": "Interiores y Exteriores"
+    },
+    {
+      "id": 8,
+      "title": "Escalera flotante",
+      "image": "/images/services/service-5.jpg",
+      "category": "Interiores y Exteriores",
+      "badge": "Interiores y Exteriores"
+    },
+    {
+      "id": 9,
+      "title": "Puerta Principal Geometría",
+      "image": "/images/services/service-6.jpg",
+      "category": "Interiores y Exteriores",
+      "badge": "Interiores y Exteriores"
+    },
+    {
+      "id": 10,
+      "title": "Puerta de Bienvenida Escénica",
+      "image": "/images/services/service-9.jpg",
+      "category": "Interiores y Exteriores"
+    }
+  ],
+  "Oficina y Corporativo": [
+    {
+      "id": 13,
+      "title": "Muebles para Oficina",
+      "image": "/images/services/service-4.jpg",
+      "category": "Oficina y Corporativo"
+    }
+  ]
+}
