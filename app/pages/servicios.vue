@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import CardsSrvCorp from '../components/cards.vue';
 import { useTemplate } from '~/composables/useTemplate';
-
 const { t } = useTemplate();
 </script>
 
